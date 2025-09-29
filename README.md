@@ -27,5 +27,5 @@ PM | 스마트 팜을 이용한 P2E 농장 시뮬레이션 게임 <br/>
 PM | 1인 가구의 식습관 개선을 위한 스마트팜 <br/>
 
 ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miiniminimo)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miiniminimo)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miiniminimo)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miiniminimo)](https://github.com/anuraghazra/github-readme-stats) 
   
