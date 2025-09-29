@@ -16,15 +16,13 @@ MRA | 2025년 2월 대관공연 | 총괄/기획 <br/>
 MRA | 2024년 2월 대관공연 | 총괄/기획 <br/>
 
 ## 📆 Project
-2025 
-
+2025 <br/>
 PM | ESG 경영을 위한 IT 중고거래 플랫폼 'Loopi' <br/>
 PM / Design / backend | YoLov8을 이용한 AI 분리수거 쓰레기통 'Demi' <br/>
 Design / front | 뉴스 API를 이용한 동양미래대 뉴스 페이지 <br/>
 Design / JAVA | 레트로풍 픽셀 미니게임 3종 'minigame pactory' <br/>
 
-2023
-
+2023 <br/>
 PM | 스마트 팜을 이용한 P2E 농장 시뮬레이션 게임 <br/>
 PM | 1인 가구의 식습관 개선을 위한 스마트팜 <br/>
 
