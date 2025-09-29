@@ -26,11 +26,8 @@ MRA | 2024년 2월 대관공연 | 총괄/기획
 2025 
 
 PM | ESG 경영을 위한 IT 중고거래 플랫폼 'Loopi' 
-
 PM / Design / backend | YoLov8을 이용한 AI 분리수거 쓰레기통 'Demi' 
-
 Design / front | 뉴스 API를 이용한 동양미래대 뉴스 페이지 
-
 Design / JAVA | 레트로풍 픽셀 미니게임 3종 'minigame pactory' 
 
 2023
