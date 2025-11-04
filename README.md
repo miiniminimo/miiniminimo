@@ -10,16 +10,16 @@ MRA | 동양미래대학교 밴드부 동아리 51기 | 회장 | 2024.09 ~ 2025.
 MRA | 동양미래대학교 밴드부 동아리 50기 | 회장 | 2023.10 ~ 2024.09 <br/>
 
 ## 👑 Award
-EL | 2025 동양미래대학교 EXPO 졸업전시회 | Design/backend | 우수상 | 2025.11 <br/>
-EL | 로컬잇슈 창업캠프 | PM | 최우수상 (2등) | 2025.09 <br/>
-EL | 한이음 드림업 ICT 본선 진출 | PM/backend | 2025.03 ~ 2025.10 <br/>
+EL | 2025 동양미래대학교 EXPO 졸업전시회 | Design / Backend | 우수상 | 2025.11 <br/>
+EL | 2025 로컬잇슈 창업캠프 | PM | 최우수상 (2등) | 2025.09 <br/>
+EL | 2025 한이음 드림업 ICT 본선 진출 | PM / Design / Backend | 2025.03 ~ 2025.10 <br/>
 MRA | 2025년 2월 대관공연 | 총괄/기획 <br/>
 MRA | 2024년 2월 대관공연 | 총괄/기획 <br/>
-EL | AI PD Lab BOOT CAMP | PM | 최우수상(2등) | 2023.12.26 ~ 2023.12.27 <br/>
+EL | 2023 AI PD Lab BOOT CAMP | PM | 최우수상(2등) | 2023.12.26 ~ 2023.12.27 <br/>
 
 ## 📆 Project
 2025 <br/>
-Design/backend | 스마트글러브와 AI를 결합한 산업안전교육플랫폼 'GLife' <br/>
+Design/Backend | 스마트글러브와 AI를 결합한 산업안전교육플랫폼 'GLife' <br/>
 PM | ESG 경영을 위한 IT 중고거래 플랫폼 'Loopi' <br/>
 PM / Design / backend | YoLov8을 이용한 AI 분리수거 쓰레기통 'Demi' <br/>
 Design / front | 뉴스 API를 이용한 동양미래대 뉴스 페이지 <br/>
