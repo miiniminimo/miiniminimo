@@ -22,6 +22,9 @@ MRA | 2024년 2월 대관공연 | 총괄/기획 <br/>
 EL | 2023 AI PD Lab BOOT CAMP | PM | 최우수상(2등) | 2023.12.26 ~ 2023.12.27 <br/>
 
 ## 📆 Project
+2026 <br/> 
+PM | 금천구청 다국어 민원 서식 가이드 플랫폼 'Gusring' <br/> 
+
 2025 <br/>
 PM / Design | 오프라인 이벤트 전용 크라우드 펀딩 플랫폼 'MUSES' <br/>
 Design/Backend | 스마트글러브와 AI를 결합한 산업안전교육플랫폼 'GLife' <br/>
