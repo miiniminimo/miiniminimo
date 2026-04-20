@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=gradient&height=300&section=header&text=miniminimo%20pages%F0%9F%A4%97)
 
 ## 🐤 About me 
-### 💻 PM / backend Engineer
+### 💻 PM 
 
 UMC 10기 | Plan파트장 | 2026.03 ~ <br/>
 동양미래대학교 컴퓨터소프트웨어공학과 29기 학생회 | 기획부장 | 2026.03 ~ <br/>
