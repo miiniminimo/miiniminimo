@@ -56,6 +56,6 @@
 | 2025 - 2 | AR·VR콘텐츠디자인학과 | UI디자인 | **Mule** — 악기 중고거래 커뮤니티 리디자인 | Design |
 | 2025 - 1 | 컴퓨터소프트웨어공학과 | 자바응용프로젝트 | [**minigame pactory**](https://github.com/miiniminimo/Chrome-dino) — 레트로 픽셀 미니게임 3종 | Design / Java |
 | 2025 - 1 | 컴퓨터소프트웨어공학과 | 웹프런트엔드실습 | [**dmu-news**](https://github.com/miiniminimo/dmu_news) — AI로 요약해주는 뉴스 요약 웹 서비스 | Design / FE |
-| 2025 - 1 | 인공지능소프트웨어학과 | UI/UX 기획 | [**Demi**](https://github.com/miiniminimo/demiproject) — AI 분리수거 쓰레기통 기획 | PM / Design |
+| 2025 - 1 | 인공지능소프트웨어학과 | UI/UX 기획 | [**Demi**](https://github.com/miiniminimo/demiproject) — AI 분리수거 쓰레기통 모니터링 APP | PM / Design |
 
 
