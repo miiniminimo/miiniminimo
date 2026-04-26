@@ -53,7 +53,9 @@
 
 | 학기 | 학과 | 과목 | 프로젝트 | 역할 |
 |:----:|------|------|---------|:----:|
-| 2025 - 2 | 컴퓨터소프트웨어공학과 | 백엔드실습 | [**Quizi**](https://github.com/miiniminimo/Quizi) — AI 맞춤 문제집 생성·공유 플랫폼 | PM / BE |
+| 2026 - 1 | 인공지능소프트웨어학과 | 인공지능서비스프로젝트 | [**Quizi**](https://github.com/miiniminimo/Quizi) — AI 맞춤 문제집 생성·공유 플랫폼 | Full-stack |
+| 2026 - 1 | 컴퓨터소프트웨어공학과 | 시스템분석설계(졸업작품) | [**Ailgn-it**](https://github.com/timiroom) — LLM기반 기획 개발 정합성 보장 오케스트레이션 | PM / FE |
+| 2025 - 2 | 컴퓨터소프트웨어공학과 | 백엔드실습 | [**Quizi**](https://github.com/miiniminimo/Quizi) — AI 맞춤 문제집 생성·공유 플랫폼 | Full-stack |
 | 2025 - 2 | AR·VR콘텐츠디자인학과 | UI디자인 | **Mule** — 악기 중고거래 커뮤니티 리디자인 | Design |
 | 2025 - 1 | 컴퓨터소프트웨어공학과 | 자바응용프로젝트 | [**minigame pactory**](https://github.com/miiniminimo/Chrome-dino) — 레트로 픽셀 미니게임 3종 | Design / Java |
 | 2025 - 1 | 컴퓨터소프트웨어공학과 | 웹프런트엔드실습 | [**dmu-news**](https://github.com/miiniminimo/dmu_news) — AI로 요약해주는 뉴스 요약 웹 서비스 | Design / FE |
