@@ -25,7 +25,7 @@ PM | 2023 AI PD Lab BOOT CAMP | 최우수상(2등) | 2023.12.26 ~ 2023.12.27 <br
 
 ## 📆 Project
 2026 <br/> 
-PM / Prontend | LLM 기반 기획 개발 정합성 보장 오케스트레이션 "Align-it" <br/>
+PM / Frontend | LLM 기반 기획 개발 정합성 보장 오케스트레이션 "Align-it" <br/>
 PM | 금천구청 다국어 민원 서식 가이드 플랫폼 'Gusring' <br/> 
 
 2025 <br/>
