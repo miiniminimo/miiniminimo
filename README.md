@@ -24,8 +24,8 @@
 
 
 <br>
-
-## 👑 Roles
+<details>
+<summary><h2> 👑 Roles</h2></summary>
 
 ### 연합 동아리 UMC 
 - `2026.03 ~` 동양미래대학교 Plan 파트장
@@ -46,10 +46,11 @@
 > 3월 9월 동동제, 5월 축제 공연 및 부스, 연말 대관공연 기획</br>
 > 인스타그램 · 유튜브 개설 및 영상 제작 · 관리 </br>
 > 3월 9월 동동제, 축제 공연, 대관공연, 보컬 참가 </br>
-
+</details>
 <br>
 
-## 📚 Major Works
+<details>
+<summary><h2>📚 Major Works</h2></summary>
 
 | 학기 | 학과 | 과목 | 프로젝트 | 역할 |
 |:----:|------|------|---------|:----:|
@@ -60,5 +61,5 @@
 | 2025 - 1 | 컴퓨터소프트웨어공학과 | 자바응용프로젝트 | [**minigame pactory**](https://github.com/miiniminimo/Chrome-dino) — 레트로 픽셀 미니게임 3종 | Design / Java |
 | 2025 - 1 | 컴퓨터소프트웨어공학과 | 웹프런트엔드실습 | [**dmu-news**](https://github.com/miiniminimo/dmu_news) — AI로 요약해주는 뉴스 요약 웹 서비스 | Design / FE |
 | 2025 - 1 | 인공지능소프트웨어학과 | UI/UX 기획 | [**Demi**](https://github.com/miiniminimo/demiproject) — AI 분리수거 쓰레기통 모니터링 APP | PM / Design |
-
+</details>
 
