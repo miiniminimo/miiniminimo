@@ -20,7 +20,7 @@
 | 2025 | [**GLife**](https://github.com/miiniminimo/GLife_Backend) — 스마트글러브 × AI 산업안전교육 플랫폼 | Design / BE | 🥈 우수상 · 동양미래대 EXPO 졸업전시회 | 2025.05~2025.11|
 | 2025 | [**Demi**](https://github.com/miiniminimo/demiproject) — YOLOv8 기반 AI 분리수거 쓰레기통 | PM / Design | 한이음 드림업 1차 본선 진출 | 2025.04~2025.10|
 | 2023 | **팜와쓔** - 스마트팜 P2E 농장 시뮬레이션 게임| PM | 🥈 최우수상 · AI PD Lab BOOT CAMP | 2023.12.26~2023.12.27 |
-| 2023 | **1인 가구의 식습관 개선을 위한 스마트팜** | PM | ICT 한이음 드림업 본선 탈락 | 2023.04~2023.10|
+| 2023 | **1인 가구의 식습관 개선을 위한 스마트팜** | PM / BE | ICT 한이음 드림업 본선 탈락 | 2023.04~2023.10|
 
 
 <br>
