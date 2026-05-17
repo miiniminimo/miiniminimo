@@ -20,9 +20,9 @@
 | 2025 | [**Loopi**](https://github.com/Danto7632/LOOPI) — ESG 경영 IT 중고거래 플랫폼 | PM | 🥈 최우수상 · 로컬잇슈 창업캠프 | 2025.09 | 
 | 2025 | [**MUSES**](https://github.com/umcMuses) — 오프라인 이벤트 전용 크라우드 펀딩 플랫폼 | PM / Design | UMC 9기 DemoDay | 2025.05~2026.02 | 
 | 2025 | [**GLife**](https://github.com/miiniminimo/GLife_Backend) — 스마트글러브 × AI 산업안전교육 플랫폼 | Design / BE | 🥈 우수상 · 동양미래대 EXPO 졸업전시회 | 2025.05~2025.11|
-| 2025 | [**Demi**](https://github.com/miiniminimo/demiproject) — YOLOv8 기반 AI 분리수거 쓰레기통 | PM / Design | 한이음 드림업 1차 본선 진출 | 2025.04~2025.10|
+| 2025 | [**Demi**](https://github.com/miiniminimo/demiproject) — YOLOv8 기반 AI 분리수거 쓰레기통 | PM / Design | 한이음 드림업 2차 본선 탈락 | 2025.04~2025.10|
 | 2023 | **팜와쓔** - 스마트팜 P2E 농장 시뮬레이션 게임| PM | 🥈 최우수상 · AI PD Lab BOOT CAMP | 2023.12.26~2023.12.27 |
-| 2023 | **1인 가구의 식습관 개선을 위한 스마트팜** | PM / BE | ICT 한이음 드림업 본선 탈락 | 2023.04~2023.10|
+| 2023 | **1인 가구의 식습관 개선을 위한 스마트팜** | PM / BE | ICT 한이음 드림업 1차 본선 탈락 | 2023.04~2023.10|
 
 
 <br>
