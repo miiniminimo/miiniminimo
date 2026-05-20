@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=gradient&height=300&section=header&text=miniminimo%20pages%F0%9F%A4%97)
 
 ## 🐤 About me 
-### `동양미래대학교` `컴퓨터소프트웨어공학과` `PM` 
+### `동양미래대학교` `컴퓨터소프트웨어공학과`
 <br>
 
 ## 💻 Projects
