@@ -9,7 +9,7 @@
 | 연도 | 프로젝트 | 역할 | 활동내역 | 기간 |
 |:----:|---------|:----:|:----:|:----:|
 | 2026 | [**Ailgn-it**](https://github.com/timiroom) — LLM기반 기획 개발 정합성 보장 오케스트레이션 | PM / FE | 2026 AI LOOKIE 대회 | 2026.06~ |
-| 2026 | **Pebble** - 마일스톤을 관리하는 캘린더 형 투두리스트 | PM | UMC 10기 DemoDay | 2026.05~ |
+| 2026 | **Pebble** - 마일스톤을 관리하는 캘린더 형 투두리스트 | PM | UMC 10기 PM DAY 2등 /br DemoDay | 2026.05~ |
 | 2026 | **MUZE** — 오프라인 이벤트 전용 크라우드 펀딩 플랫폼 | PM / Design | 도전! 메가시티리그전 | 2026.04~ |
 | 2026 | [**Ailgn-it**](https://github.com/timiroom) — LLM기반 기획 개발 정합성 보장 오케스트레이션 | PM / FE | 2026 한이음 드림업 | 2026.04~ |
 | 2026 | [**Gusring**](https://github.com/gusring) — 금천구청 다국어 민원 서식 가이드 플랫폼 | PM / Design / FE | Rise 학생 참여형 리빙랩 | 2026.04~2026.07.10 |
@@ -58,6 +58,7 @@
 
 | 학기 | 학과 | 과목 | 프로젝트 | 역할 |
 |:----:|------|------|---------|:----:|
+| 2026 - 2 | 인공지능소프트웨어학과 | 인공지능서비스프로젝트 | 나만의 사주로 RPG(가제) | Full-stack |
 | 2026 - 1 | 인공지능소프트웨어학과 | 인공지능서비스프로젝트 | [**Quizi**](https://github.com/miiniminimo/Quizi) — AI 맞춤 문제집 생성·공유 플랫폼 | Full-stack |
 | 2026 - 1 | 컴퓨터소프트웨어공학과 | 시스템분석설계(졸업작품) | [**Ailgn-it**](https://github.com/timiroom) — LLM기반 기획 개발 정합성 보장 오케스트레이션 | PM / FE |
 | 2025 - 2 | 컴퓨터소프트웨어공학과 | 백엔드실습 | [**Quizi**](https://github.com/miiniminimo/Quizi) — AI 맞춤 문제집 생성·공유 플랫폼 | Full-stack |
