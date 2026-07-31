@@ -11,7 +11,7 @@
 | 2026 | [**Ailgn-it**](https://github.com/timiroom) — LLM기반 기획 개발 정합성 보장 오케스트레이션 | PM / FE | 2026 AI LOOKIE 대회 | 2026.06~ |
 | 2026 | [**Pebble**](https://github.com/umc-pebble) - 마일스톤을 관리하는 캘린더 형 투두리스트 | PM | UMC 10기 PM DAY 2등 DemoDay | 2026.05~ |
 | 2026 | **MUZE** — 오프라인 이벤트 전용 크라우드 펀딩 플랫폼 | PM / Design | 🥉 우수상 도전! 메가시티리그전 | 2026.04~2026.07.08 |
-| 2026 | [**Ailgn-it**](https://github.com/timiroom) — LLM기반 기획 개발 정합성 보장 오케스트레이션 | PM / FE | 2026 한이음 드림업 중간평가 우수 프로젝트 | 2026.04~ |
+| 2026 | [**Ailgn-it**](https://github.com/timiroom) — LLM기반 기획 개발 정합성 보장 오케스트레이션 | PM / FE | 2026 한이음 드림업 <br> 중간평가 우수 프로젝트 | 2026.04~ |
 | 2026 | [**Gusring**](https://github.com/gusring) — 금천구청 다국어 민원 서식 가이드 플랫폼 | PM / Design / FE | Rise 학생 참여형 리빙랩 | 2026.04~2026.07.10 |
 | 2026 |[ **(주)태일씨앤티**](https://github.com/miiniminimo/taeilCnt) 공식 웹페이지 리뉴얼 | PM / Design / FE | 3등 수상 거부 ❌ | 2026.04~2026.06.04 |
 | 2026 | **MUSES** — 오프라인 이벤트 전용 크라우드 펀딩 플랫폼 | PM / Design | 🥈 우수상 · 창업전략 시뮬레이션 챌린지 | 2026.01.08~2026.01.19 |
